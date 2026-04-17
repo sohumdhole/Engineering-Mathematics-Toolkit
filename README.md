@@ -19,6 +19,26 @@ Each module follows a strict pedagogical structure:
 4. **Common Mistakes:** Crucial warnings regarding frequent student pitfalls.
 5. **Real-World Application:** Concrete engineering examples linking theory to practice.
 
+## Screenshots
+<img width="1920" height="871" alt="Screenshot (938)" src="https://github.com/user-attachments/assets/eadaefb5-67ac-4c10-9d2d-2960c5660ac1" />
+<img width="1920" height="995" alt="Screenshot (939)" src="https://github.com/user-attachments/assets/7001b0c6-506c-47b3-a92c-a27f602060e0" />
+<img width="1920" height="975" alt="Screenshot (940)" src="https://github.com/user-attachments/assets/120239aa-48be-4583-a0f5-8fca17f76919" />
+<img width="1920" height="1008" alt="Screenshot (941)" src="https://github.com/user-attachments/assets/f1786d9d-d3a5-4973-830b-991ed5a6dd00" />
+<img width="1920" height="1004" alt="Screenshot (942)" src="https://github.com/user-attachments/assets/a473bed6-f620-42c4-9345-ca83595ae603" />
+<img width="1920" height="1011" alt="Screenshot (943)" src="https://github.com/user-attachments/assets/e4ab6149-68b8-4467-a387-6382d6a2e5cc" />
+<img width="1920" height="881" alt="Screenshot (944)" src="https://github.com/user-attachments/assets/84dacf26-fda9-4358-a4cf-f9221a35a959" />
+<img width="1920" height="1017" alt="Screenshot (945)" src="https://github.com/user-attachments/assets/4ecf77f6-b503-4124-90b7-d5f25769b2cc" />
+<img width="1920" height="1010" alt="Screenshot (946)" src="https://github.com/user-attachments/assets/95d86c2e-30ba-4bcb-aaf3-39e379bf1292" />
+<img width="1920" height="999" alt="Screenshot (947)" src="https://github.com/user-attachments/assets/5511ee0a-dd39-4f30-b000-dbf10a54df43" />
+<img width="1920" height="988" alt="Screenshot (948)" src="https://github.com/user-attachments/assets/3d619552-7827-4217-b1b5-7b573cd14b93" />
+
+
+
+
+
+
+
+
 ## 🛠️ Installation & Setup
 
 To run this project locally, you will need Python installed on your machine.
